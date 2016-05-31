@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+.git
+.babelrc
+*.sh
+*.txt
+*.json
+*.js
+LICENSE

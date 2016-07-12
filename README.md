@@ -71,5 +71,6 @@ What are the most popular libraries in the MobX ecosystem?
 | 65 | [AntonyBlakey/starter-electron-jspm-typescript-react-mobx](https://github.com/AntonyBlakey/starter-electron-jspm-typescript-react-mobx) | Starter for my projects that use electron + jspm + typescript + react + mobx | 2 |
 | 66 | [capaj/babble-admin](https://github.com/capaj/babble-admin) | quick hackathon mvp for beacon admin interface built with react.js and MobX | 2 |
 | 67 | [mike-hearn/scaffolding-react-mobx](https://github.com/mike-hearn/scaffolding-react-mobx) | Working towards my perfect setup for React/MobX/PostCSS projects. Not at all stable at the moment. | 2 |
+| 68 | [tomaash/mobx-translate](https://github.com/tomaash/mobx-translate) | Simple translations library for mobx | 1 |
 
 Inspired by awesome repo [rxjs-ecosystem](https://github.com/Widdershin/rxjs-ecosystem). Thanks Nick
